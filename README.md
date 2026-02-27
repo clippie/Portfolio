@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my videos, projects, experience, and resume.
 
-🌐 **Live Site:** [clippie.github.io](https://clippie.github.io)
+🌐 **Live Site:** [clippie.github.io](https://clippie.github.io/Portfolio/)
 
 ---
 
