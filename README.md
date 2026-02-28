@@ -4,6 +4,7 @@ A personal portfolio website showcasing my videos, projects, experience, and res
 
 🌐 **Live Site:** [clippie.github.io/Portfolio/](https://clippie.github.io/Portfolio/)
 
+Video of me creating it: [https://www.youtube.com/watch?v=---9ctPBrIc]
 ---
 
 ## Built With
@@ -52,3 +53,4 @@ This site is deployed via [GitHub Pages](https://pages.github.com/).
 
 - LinkedIn: [linkedin.com/in/caden-lippie-a2384024a](https://www.linkedin.com/in/caden-lippie-a2384024a)
 - GitHub: [github.com/clippie](https://github.com/clippie)
+- YouTube: [https://youtube.com/@cadenlippie8358?si=aT4RK3GmjG9ilPrh]
