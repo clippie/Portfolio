@@ -54,4 +54,3 @@ This site is deployed via [GitHub Pages](https://pages.github.com/).
 
 - LinkedIn: [linkedin.com/in/caden-lippie-a2384024a](https://www.linkedin.com/in/caden-lippie-a2384024a)
 - GitHub: [github.com/clippie](https://github.com/clippie)
-- YouTube: [www.youtube.com/@cadenlippie8358](https://youtube.com/@cadenlippie8358?si=aT4RK3GmjG9ilPrh)
