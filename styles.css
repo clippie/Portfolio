@@ -6,7 +6,6 @@
     --card: #ffffff;
 }
 
-
 body {
     font-family: 'Playfair Display', serif;
     background: var(--bg);
@@ -195,6 +194,11 @@ nav a:hover {
     justify-content: space-between;
     margin-top: auto;
     padding-top: 0.5rem;
+}
+
+.skills-row a {
+    text-decoration: none;
+    margin-left: 0.3rem;
 }
 
 .video-github {
